@@ -1,0 +1,34 @@
+.masthead {
+    height: 150vh;
+    min-height: 500px;
+    background-image: url('./../img/masthead.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .titolo{
+    background-color: rgba(250, 250, 250, 0.85);
+    color: rgb(78, 69, 157);
+    font-weight: bold;
+  }
+  .card_generale{
+    height: 200px;
+    margin: 20px;
+    padding:10px;
+    border: 3px solid blue;
+  }
+  .contenitore{
+    border-radius: 20px;
+    border: 2px solid blue;
+    background-color:antiquewhite
+  }
+  .login{
+    list-style: none;
+    display: inline;
+    padding-top: 10px;
+  }
+  .navbar{
+    position: sticky;
+    top: 0;
+  }
